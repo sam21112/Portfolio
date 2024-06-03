@@ -13,8 +13,8 @@ export const projectPageAllProjects = [
     {title:'BlockSeat - Ticketing App', gitHubLink:'https://github.com/sam21112/blockseat', siteLink:'https://apps.apple.com/us/app/blockseat/id6468551239', imgSrc:proj1},
     {title:'LazyLoad - Text to gaming assets using ML', gitHubLink:'https://github.com/sam21112/lazyload', siteLink:'http://lazyload.ai/', imgSrc:proj2},
     {title:'Resume Scanner and Job Recommendation Chatbot', gitHubLink:'https://github.com/sam21112/resume-scanner-chatbot', siteLink:'https://mlresumescanner-sam21112s-projects.vercel.app/', imgSrc:proj4},
-    {title:'NLP LSTM vs Attention', gitHubLink:'https://github.com/sam21112/NLP_LSTMvsAttention.git', siteLink:'#', imgSrc:proj1},
-    {title:'LLM Itinerary Planner', gitHubLink:'https://github.com/sam21112/LLM_itinery_planner.git', siteLink:'#', imgSrc:proj2}
+    {title:'NLP LSTM vs Attention', gitHubLink:'https://github.com/sam21112/NLP_LSTMvsAttention.git', siteLink:'#', imgSrc:proj3},
+    {title:'LLM Itinerary Planner', gitHubLink:'https://github.com/sam21112/LLM_itinery_planner.git', siteLink:'#', imgSrc:proj3}
 ]
 
 export const initiativePageContent = "I have been involved in various initiatives that focus on automation, machine learning, and software development. My work aims to bridge the gap between technology and real-world applications, ensuring practical and impactful solutions."
