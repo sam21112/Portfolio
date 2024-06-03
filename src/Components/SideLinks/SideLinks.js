@@ -1,16 +1,14 @@
 import './sidelinks.scss'
-import {LinkLogoFacebook, LinkLogoInstagram, LinkLogoLinkedin, LinkLogoMedium, LinkLogoTwitter, LinkLogoYoutube, LinkLine} from '../../Images'
+import {LinkLogoFacebook,ProjectsGithubIcon, LinkLogoInstagram, LinkLogoLinkedin, LinkLogoMedium, LinkLogoTwitter, LinkLogoYoutube, LinkLine} from '../../Images'
 
 
-const SideLinks = ({fb, insta, linkedIn, medium, twitter, utube}) => {
+const SideLinks = ({fb, insta, linkedIn, medium, twitter, utube,github}) => {
   return (
     <div className='sidelinks_container'>
-        <a className='sidelinks_item' target='_blank' href={fb}><LinkLogoFacebook/></a>
-        <a className='sidelinks_item' target='_blank' href={insta}><LinkLogoInstagram/></a>
+       
+        <a className='sidelinks_item' target='_blank' href={github}><ProjectsGithubIcon/></a>
         <a className='sidelinks_item' target='_blank' href={linkedIn}><LinkLogoLinkedin/></a>
-        <a className='sidelinks_item' target='_blank' href={medium}><LinkLogoMedium/></a>
-        <a className='sidelinks_item' target='_blank' href={twitter}><LinkLogoTwitter/></a>
-        <a className='sidelinks_item' target='_blank' href={utube}><LinkLogoYoutube/></a>
+         
         <LinkLine/>
     </div>
   )
