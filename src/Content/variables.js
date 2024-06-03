@@ -1,7 +1,7 @@
-import proj1 from '../Images/ProjectImgs/proj1.jpg'
-import proj2 from '../Images/ProjectImgs/proj2.jpg'
+import proj1 from '../Images/ProjectImgs/Blockseat.png'
+import proj2 from '../Images/ProjectImgs/lazyload.webp'
 import proj3 from '../Images/ProjectImgs/proj3.jpg'
-import proj4 from '../Images/ProjectImgs/proj4.jpg'
+import proj4 from '../Images/ProjectImgs/CHATBOT.png'
 
 export const nameCapitals = "SAMARTH RAIPAL"
 
